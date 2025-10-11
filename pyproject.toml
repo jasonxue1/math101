@@ -1,0 +1,8 @@
+[project]
+name = "math101"
+version = "0.1.0"
+description = "Compare combinatorial and dynamic programming quadruple counters with timing table output."
+authors = [{ name = "jasonxue" }]
+license = { file = "LICENSE" }
+requires-python = "==3.12.11"
+dependencies = ["rich>=14.2.0", "tqdm>=4.67.1"]
